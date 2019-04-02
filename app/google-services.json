@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "83310173470",
+    "firebase_url": "https://mnistapp-4fbec.firebaseio.com",
+    "project_id": "mnistapp-4fbec",
+    "storage_bucket": "mnistapp-4fbec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83310173470:android:926b0f368fe9a24f",
+        "android_client_info": {
+          "package_name": "io.github.umangjpatel.mnistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83310173470-bf0jkvqv00cib6i79jpeooo79mqgu0ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW1fofHMeFBCpqlrmevAZwh7qOC31WskE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
